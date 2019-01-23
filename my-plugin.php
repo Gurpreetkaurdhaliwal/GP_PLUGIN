@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: My Plugin
-* Plugin URI:https://www.yourwebsiteurl
+* Plugin URI:http://wordpress.org/plugins/hello-dolly/
 * Description: My first plugin in wordpress
 * Version:1.0
 * Author: Gurpreet kaur dhaliwal
-* Author URI: https://yourwebsiteurl.com /
+* Author URI: http://wordpress.org/plugins/hello-dolly/
 **/
 
  function dh_modify_read_more_link() {
